@@ -13,3 +13,8 @@ Below you will find a complete list of all the examples that are available on th
 * [Node.js Examples](https://github.com/LiveEngage-Examples/LiveEngage-Skills-API/tree/master/NodeJS-SkillsAPI-Example)
 * [Python Examples](https://github.com/LiveEngage-Examples/LiveEngage-Skills-API/tree/master/Python-SkillsAPISample)
 * [R Examples](https://github.com/LiveEngage-Examples/LiveEngage-Skills-API/tree/master/R-SkillsAPI-Example)
+
+## [Agent Groups API](https://github.com/LiveEngage-Examples/LiveEngage-Agent-Groups-API)
+
+* [Node.js Examples](https://github.com/LiveEngage-Examples/LiveEngage-Agent-Groups-API/tree/master/NodeJS-AgentGroupsAPI-Example)
+* [Python Examples](https://github.com/LiveEngage-Examples/LiveEngage-Agent-Groups-API/tree/master/Python-AgentGroupsAPISample)
