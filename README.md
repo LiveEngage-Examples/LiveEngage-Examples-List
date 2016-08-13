@@ -18,3 +18,5 @@ Below you will find a complete list of all the examples that are available on th
 
 * [Node.js Examples](https://github.com/LiveEngage-Examples/LiveEngage-Agent-Groups-API/tree/master/NodeJS-AgentGroupsAPI-Example)
 * [Python Examples](https://github.com/LiveEngage-Examples/LiveEngage-Agent-Groups-API/tree/master/Python-AgentGroupsAPISample)
+
+## [External Engagements API](https://github.com/LiveEngage-Examples/LiveEngage-External-Engagements-API)
