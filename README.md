@@ -4,6 +4,7 @@ Below you will find a complete list of all the examples that are available on th
 
 ## [Users API](https://github.com/LiveEngage-Examples/LiveEngage-Users-API)
 
+* [Java Example](https://github.com/LiveEngage-Examples/LiveEngage-Users-API/tree/master/Java)
 * [Node.js Examples](https://github.com/LiveEngage-Examples/LiveEngage-Users-API/tree/master/NodeJS)
 * [Python Examples](https://github.com/LiveEngage-Examples/LiveEngage-Users-API/tree/master/Python)
 
