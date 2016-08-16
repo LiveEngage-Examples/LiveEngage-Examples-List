@@ -22,6 +22,8 @@ Below you will find a complete list of all the examples that are available on th
 
 ## [External Engagements API](https://github.com/LiveEngage-Examples/LiveEngage-External-Engagements-API)
 
+* [Python Example](https://github.com/LiveEngage-Examples/LiveEngage-External-Engagements-API/tree/master/Python-ExternalEngagementsAPISample)
+
 ## [Real Time Operational API](https://github.com/LiveEngage-Examples/LiveEngage-Real-Time-Operational-API)
 
 ## [Engagement History API](https://github.com/LiveEngage-Examples/LiveEngage-Engagement-History-API)
