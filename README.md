@@ -25,3 +25,5 @@ Below you will find a complete list of all the examples that are available on th
 ## [Real Time Operational API](https://github.com/LiveEngage-Examples/LiveEngage-Real-Time-Operational-API)
 
 ## [Engagement History API](https://github.com/LiveEngage-Examples/LiveEngage-Engagement-History-API)
+
+## [Create Users & Skills API Tool](https://github.com/LiveEngage-Examples/LiveEngage-Create-Users-Skills-Tool)
