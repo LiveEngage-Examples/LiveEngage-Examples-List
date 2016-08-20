@@ -30,6 +30,7 @@ Below you will find a complete list of all the examples that are available on th
 * [Node.js Engagement Activity Example](https://github.com/LiveEngage-Examples/LiveEngage-Real-Time-Operational-API/tree/master/NodeJS-EngagementActivityAPI-Example)
 * [Node.js Queue Health Example](https://github.com/LiveEngage-Examples/LiveEngage-Real-Time-Operational-API/tree/master/NodeJS-QueueHealthAPI-Example)
 * [Python Agent Activity Example](https://github.com/LiveEngage-Examples/LiveEngage-Real-Time-Operational-API/tree/master/Python-AgentActivityAPI-Example)
+* [Python Engagement Activity Example](https://github.com/LiveEngage-Examples/LiveEngage-Real-Time-Operational-API/tree/master/Python-EngagementActivityAPI-Example)
 
 ## [Engagement History API](https://github.com/LiveEngage-Examples/LiveEngage-Engagement-History-API)
 
