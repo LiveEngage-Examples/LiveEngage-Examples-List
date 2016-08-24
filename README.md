@@ -36,4 +36,6 @@ Below you will find a complete list of all the examples that are available on th
 
 ## [Engagement History API](https://github.com/LiveEngage-Examples/LiveEngage-Engagement-History-API)
 
+* [C# Example](https://github.com/LiveEngage-Examples/LiveEngage-Engagement-History-API/tree/master/C%23-EHAPIExample)
+
 ## [Create Users & Skills API Tool](https://github.com/LiveEngage-Examples/LiveEngage-Create-Users-Skills-Tool)
