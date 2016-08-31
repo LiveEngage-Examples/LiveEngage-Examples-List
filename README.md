@@ -38,6 +38,7 @@ Below you will find a complete list of all the examples that are available on th
 
 * [C# Example](https://github.com/LiveEngage-Examples/LiveEngage-Engagement-History-API/tree/master/C%23-EHAPIExample)
 * [Java Example](https://github.com/LiveEngage-Examples/LiveEngage-Engagement-History-API/tree/master/Java-EHAPI-Example)
+* [Python Example](https://github.com/LiveEngage-Examples/LiveEngage-Engagement-History-API/tree/master/Python-EngagementHistoryAPISample)
 * [R Example](https://github.com/LiveEngage-Examples/LiveEngage-Engagement-History-API/tree/master/R-EngagementHistoryAPISample)
 
 ## [Create Users & Skills API Tool](https://github.com/LiveEngage-Examples/LiveEngage-Create-Users-Skills-Tool)
