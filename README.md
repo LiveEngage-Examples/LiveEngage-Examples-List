@@ -43,3 +43,5 @@ Below you will find a complete list of all the examples that are available on th
 * [R Example](https://github.com/LiveEngage-Examples/LiveEngage-Engagement-History-API/tree/master/R-EngagementHistoryAPISample)
 
 ## [Create Users & Skills API Tool](https://github.com/LiveEngage-Examples/LiveEngage-Create-Users-Skills-Tool)
+
+## [Node.js - LiveEngage Authentication - Implicit and Code Flow Examples](https://github.com/LiveEngage-Examples/LiveEngage-Authentication-OAuth2-NodeJS-Example)
