@@ -51,6 +51,7 @@ Below you will find a complete list of all the examples that are available on th
 
 * [Marketo Example Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/MarketoExampleWidget)
 * [Marketo Example Widget 2](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/MarketoExampleWidget2)
+* [Marketo Example Widget 3](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/MarketoExampleWidget3)
 * [Multi Media Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/MultiMediaWidget)
 * [SDK Sample Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/SDKsampleWidget)
 * [Tiered Responses Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/TieredResponsesWidget)
