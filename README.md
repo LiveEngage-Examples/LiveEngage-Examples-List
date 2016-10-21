@@ -46,3 +46,25 @@ Below you will find a complete list of all the examples that are available on th
 ## [Create Users & Skills API Tool](https://github.com/LiveEngage-Examples/LiveEngage-Create-Users-Skills-Tool)
 
 ## [Node.js - LiveEngage Authentication - Implicit and Code Flow Examples](https://github.com/LiveEngage-Examples/LiveEngage-Authentication-OAuth2-NodeJS-Example)
+<br/>
+# Agent Workspace SDK Widgets
+
+Below you will find a complete list of all the examples that are available on the [LiveEngageExamples](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK).
+
+* [Marketo Example Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/MarketoExampleWidget)
+* [Marketo Example Widget 2](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/MarketoExampleWidget2)
+* [Marketo Example Widget 3](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/MarketoExampleWidget3)
+* [Multi Media Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/MultiMediaWidget)
+* [SDK Sample Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/SDKsampleWidget)
+* [Tiered Responses Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/TieredResponsesWidget)
+* [Alias Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/aliasWidget)
+* [Chat Starting Page Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/chatStartingPageWidget)
+* [File Sharing Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/fileSharingWidget)
+* [HTML Table Editor Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/htmlTableEditorWidget)
+* [HTML Tables Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/htmlTablesWidget)
+* [Knowledge Base Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/knowledgeBaseWidget)
+* [Knowledge Base Widget v2](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/knowledgeBaseWidgetv2)
+* [Lead Gen Email Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/leadgenEmailWidget)
+* [Photo Sharing Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/photoSharingWidget)
+* [Sample CRM Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/sampleCRMWidget)
+* [Translate Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/translateWidget)
