@@ -47,7 +47,9 @@ Below you will find a complete list of all the examples that are available on th
 
 ## [Node.js - LiveEngage Authentication - Implicit and Code Flow Examples](https://github.com/LiveEngage-Examples/LiveEngage-Authentication-OAuth2-NodeJS-Example)
 
-# [Agent Workspace SDK Widgets](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK)
+# Agent Workspace SDK Widgets
+
+Below you will find a complete list of all the examples that are available on the [LiveEngageExamples](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK).
 
 * [Marketo Example Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/MarketoExampleWidget)
 * [Marketo Example Widget 2](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/MarketoExampleWidget2)
