@@ -46,7 +46,7 @@ Below you will find a complete list of all the examples that are available on th
 ## [Create Users & Skills API Tool](https://github.com/LiveEngage-Examples/LiveEngage-Create-Users-Skills-Tool)
 
 ## [Node.js - LiveEngage Authentication - Implicit and Code Flow Examples](https://github.com/LiveEngage-Examples/LiveEngage-Authentication-OAuth2-NodeJS-Example)
-
+<br/>
 # Agent Workspace SDK Widgets
 
 Below you will find a complete list of all the examples that are available on the [LiveEngageExamples](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK).
