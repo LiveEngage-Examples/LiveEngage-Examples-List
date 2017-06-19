@@ -1,3 +1,5 @@
+*See LP developer site for API docs and guides: https://developers.liveperson.com/documents.html*
+
 # LiveEngage Examples Master List
 
 Below you will find a complete list of all the examples that are available on the [LiveEngage-Examples Page](https://github.com/LiveEngage-Examples).
