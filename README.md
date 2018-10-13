@@ -53,6 +53,7 @@ Below you will find a complete list of all the examples that are available on th
 
 Below you will find a complete list of all the examples that are available on the [LiveEngageExamples](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK).
 
+* [Maps Structured Content Widget](https://github.com/LiveEngage-Examples/maps-structured-content-widget)
 * [Alias Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/aliasWidget)
 * [Chat Starting Page Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/chatStartingPageWidget)
 * [File Sharing Widget](https://github.com/scottwestover/LiveEngageExamples/tree/master/WebAppSDK/fileSharingWidget)
